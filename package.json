@@ -16,5 +16,14 @@
     "moment": "^2.10.6",
     "podcast": "^0.2.1",
     "request": "^2.67.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monai/zr-podcast.git"
+  },
+  "bugs": {
+    "url": "https://github.com/monai/zr-podcast/issues"
+  },
+  "homepage": "https://github.com/monai/zr-podcast#readme"
 }
