@@ -13,8 +13,9 @@
   "license": "ISC",
   "dependencies": {
     "cheerio": "^0.19.0",
-    "moment": "^2.10.6",
-    "podcast": "^0.2.1",
+    "moment": "^2.11.1",
+    "podcast": "^0.2.2",
+    "readable-stream": "^2.0.5",
     "request": "^2.67.0"
   },
   "devDependencies": {},
