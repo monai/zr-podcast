@@ -17,7 +17,8 @@
     "moment": "^2.11.1",
     "podcast": "^0.2.2",
     "readable-stream": "^2.0.5",
-    "request": "^2.67.0"
+    "request": "^2.67.0",
+    "stream-util2": "0.0.2"
   },
   "devDependencies": {},
   "repository": {
