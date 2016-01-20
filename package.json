@@ -1,6 +1,6 @@
 {
   "name": "zr-podcast",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Žinių radijas podcast generator",
   "bin": {
     "zr-podcast": "bin/zr-podcast"
@@ -19,6 +19,13 @@
     "stream-util2": "0.0.2"
   },
   "devDependencies": {},
+  "files": [
+    "assets",
+    "bin",
+    "lib",
+    "index.js",
+    "README.md"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/monai/zr-podcast.git"
