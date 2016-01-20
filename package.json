@@ -1,6 +1,6 @@
 {
   "name": "zr-podcast",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Žinių radijas podcast generator",
   "bin": {
     "zr-podcast": "bin/zr-podcast"
