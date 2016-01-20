@@ -1,4 +1,7 @@
 # zr-podcast
+
+[![NPM Version](http://img.shields.io/npm/v/zr-podcast.svg)](https://www.npmjs.org/package/zr-podcast)
+
 [Žinių radijas](http://www.ziniuradijas.lt) podcast generator
 
 ```bash
