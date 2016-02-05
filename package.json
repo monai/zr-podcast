@@ -1,12 +1,13 @@
 {
   "name": "zr-podcast",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Žinių radijas podcast generator",
   "bin": {
     "zr-podcast": "bin/zr-podcast"
   },
   "main": "index.js",
   "scripts": {
+    "start": "zr-podcast -d",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "monai",
